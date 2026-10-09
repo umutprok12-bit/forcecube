@@ -1,0 +1,5 @@
+key.forcecube.spawn=Spawn Force Cube
+key.categories.forcecube=Force Cube
+entity.force_cube.name=Force Cube
+tile.forcecube.force_light.name=Force Cube Light
+death.attack.forcecube_crush=%1$s was crushed by a Force Cube

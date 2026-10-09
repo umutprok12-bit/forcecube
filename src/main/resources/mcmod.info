@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "forcecube",
+    "name": "Force Cube",
+    "description": "Supraland-style Force Cube: aim, spawn, push, punch and stand on a glowing pink physics cube.",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "authorList": []
+  }
+]
